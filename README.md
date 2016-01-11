@@ -2,7 +2,7 @@
 different sorting algorithms w/ performance measuring. For ...pure curiosity.
 
 has:
-Quicksort (2 variants)
+Quicksort (2 variants) /n
 Merge sort
 Insertion sort
 to be added:
